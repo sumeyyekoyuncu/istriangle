@@ -1,2 +1,2 @@
 # istriangle
-finding if we can make an triangle with the sides we enteryed using function.
+finding if we can make a triangle with the sides we entered using function.
